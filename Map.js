@@ -1,3 +1,5 @@
+//Map --> Create a new array by doing something with each item in an array
+
 Map function example
 Approach - 1
 var numbers = [3,56,2,48,5]; 
